@@ -1,0 +1,10 @@
+D:\Programming\C#\Нейросетевые_модели\34_Ivanov_NeuralNetwork\34_Ivanov_NeuralNetwork\bin\Release\34_Ivanov_NeuralNetwork.exe.config
+D:\Programming\C#\Нейросетевые_модели\34_Ivanov_NeuralNetwork\34_Ivanov_NeuralNetwork\bin\Release\34_Ivanov_NeuralNetwork.exe
+D:\Programming\C#\Нейросетевые_модели\34_Ivanov_NeuralNetwork\34_Ivanov_NeuralNetwork\bin\Release\34_Ivanov_NeuralNetwork.pdb
+D:\Programming\C#\Нейросетевые_модели\34_Ivanov_NeuralNetwork\34_Ivanov_NeuralNetwork\obj\Release\34_Ivanov_NeuralNetwork.csproj.AssemblyReference.cache
+D:\Programming\C#\Нейросетевые_модели\34_Ivanov_NeuralNetwork\34_Ivanov_NeuralNetwork\obj\Release\_34_Ivanov_NeuralNetwork.FormMain.resources
+D:\Programming\C#\Нейросетевые_модели\34_Ivanov_NeuralNetwork\34_Ivanov_NeuralNetwork\obj\Release\_34_Ivanov_NeuralNetwork.Properties.Resources.resources
+D:\Programming\C#\Нейросетевые_модели\34_Ivanov_NeuralNetwork\34_Ivanov_NeuralNetwork\obj\Release\34_Ivanov_NeuralNetwork.csproj.GenerateResource.cache
+D:\Programming\C#\Нейросетевые_модели\34_Ivanov_NeuralNetwork\34_Ivanov_NeuralNetwork\obj\Release\34_Ivanov_NeuralNetwork.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Нейросетевые_модели\34_Ivanov_NeuralNetwork\34_Ivanov_NeuralNetwork\obj\Release\34_Ivanov_NeuralNetwork.exe
+D:\Programming\C#\Нейросетевые_модели\34_Ivanov_NeuralNetwork\34_Ivanov_NeuralNetwork\obj\Release\34_Ivanov_NeuralNetwork.pdb
